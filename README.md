@@ -26,6 +26,6 @@ sensitive language models for CM text.</p>
 # Authors
   * Mohsin Ali Mohammed(IIIT, Sricity)
   * Kandukuri Sai Teja(IIIT, Sricity)
-  * Sumanth Manduru(IIIT, Sricity)
+  * Sumanth Manduru(IIIT Sricity)
   * Parth Patwa(UCLA, USA)
-  * Amitava Das(Wipro AI Labs)
+  * Amitava Das(Wipro AI Labs, Bengaluru)
