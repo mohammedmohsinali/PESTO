@@ -26,5 +26,5 @@ sensitive language models for CM text.</p>
 
 
 # PESTO Architecture
- https://github.com/mohammedmohsinali/PESTO/blob/main/PESTO_Architecture.png
- 
+ ![alt text](https://github.com/mohammedmohsinali/PESTO/blob/main/PESTO_Architecture.png)
+
