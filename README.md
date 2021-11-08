@@ -29,8 +29,8 @@ sensitive language models for CM text.</p>
  ![alt text](https://github.com/mohammedmohsinali/PESTO/blob/main/PESTO_Architecture.png)
 
 # Switch Point Attention
- ![alt text](https://github.com/mohammedmohsinali/PESTO/blob/main/switch_point.png)
-  * PESTO not only differentiate word coming from different position but also pays high attention to the switching points like _weather_ and _achaa_
+ ![alt text](https://github.com/mohammedmohsinali/PESTO/blob/main/Switch_Points_HeatMap.png)
+  
 # Authors
   * Mohsin Ali Mohammed(IIIT, Sricity)
   * Kandukuri Sai Teja(IIIT, Sricity)
