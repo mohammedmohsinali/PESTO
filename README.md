@@ -31,3 +31,9 @@ sensitive language models for CM text.</p>
 # Switch Point Attention
  ![alt text](https://github.com/mohammedmohsinali/PESTO/blob/main/switch_point.png)
   * PESTO not only differentiate word coming from different position but also pays high attention to the switching points like _weather_ and _achaa_
+# Authors
+  * Mohsin Ali Mohammed(IIIT, Sricity)
+  * Kandukuri Sai Teja(IIIT, Sricity)
+  * Sumanth Manduru(IIIT, Sricity)
+  * Parth Patwa(UCLA, USA)
+  * Amitava Das(Wipro AI Labs)
