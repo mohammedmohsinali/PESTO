@@ -8,7 +8,7 @@
  ![alt text](https://github.com/mohammedmohsinali/PESTO/blob/main/PESTO_Architecture.png)
 
 ## Switch Point Attention
- ![alt text](https://github.com/mohammedmohsinali/PESTO/blob/main/SPHeapmap.png)
+ ![alt text](https://github.com/mohammedmohsinali/PESTO/blob/main/SPHeatmap.png)
   
 ##### If you find this useful, please cite our paper below:
 
