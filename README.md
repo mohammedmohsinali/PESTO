@@ -5,7 +5,7 @@
 
 
 ## PESTO Architecture
- ![alt text](https://github.com/mohammedmohsinali/PESTO/blob/main/PESTO_Architecture.png)
+ ![alt text](https://github.com/mohammedmohsinali/PESTO/blob/main/PESTO_Architecture.jpeg)
 
 ## Switch Point Attention
  ![alt text](https://github.com/mohammedmohsinali/PESTO/blob/main/SPHeatmap.png)
