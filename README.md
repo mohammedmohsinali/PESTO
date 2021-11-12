@@ -13,7 +13,7 @@
 ##### If you find this useful, please cite our paper below:
 
     @inproceedings{ali-etal-relative,
-    title = {Relative Switching Point based Dynamic Positional Encoding for Code-Mixed Sentiment Analysis},
+    title = {PESTO: Switching Point based Dynamic and Relative Positional Encoding for Code-Mixed Languages},
     author = {Mohsin Ali and Kandukuri Sai Teja and Sumanth Manduru and Parth Patwa and Amitava Das}
     booktitle =  {Proceedings of the AAAI Conference on Artificial Intelligence},
     year = {2022},}
